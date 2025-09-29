@@ -1,4 +1,5 @@
-Grade-Management App
+#Grade-Management App
+
 ##アプリの概要
 
 学生のテストの成績を管理するためのシンプルなアプリケーションです。
@@ -6,6 +7,7 @@ Grade-Management App
 このアプリは教員が学生のテストの成績を登録、表示、検索などの操作をできるようにすることを目的としています。
 
 ##使用技術 
+
 -java (Servlet) 
 
 -JSP 
