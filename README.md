@@ -7,19 +7,27 @@ Grade-Management App
 
 ##使用技術 -java (Servlet) 
 -JSP 
+
 -javascript 
--HTML/CSS 
--H2 Database 
+
+-HTML/CSS
+
+-H2 Database
+
 -Apache Tomcat(ローカルサーバーとして使用)
 
 フォルダー構成
 -'app/':WEBアプリ本体(Servlet,JSP,HTML/CSSなど) 
+
 -'sql/':データベースのテーブル構造を記述したファイル
 
 ##　工夫した点 
 -DAOを使ってデータベースのアクセスを整理 
+
 -実技教科は自由入力できるように設計 
+
 -ユーザが意図しない動作を行っても、不明なエラーがでないようフォームにバリデーションを追加 
+
 -表示ページは印刷してそのまま利用可
 
 *今後はデザイン面での改善なども必要
