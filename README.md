@@ -1,4 +1,4 @@
-#Grade-Management App
+#Grade-Management App　
 
 
 ##アプリの概要
