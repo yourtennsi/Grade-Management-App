@@ -19,11 +19,13 @@ Grade-Management App
 -Apache Tomcat(ローカルサーバーとして使用)
 
 フォルダー構成
+
 -'app/':WEBアプリ本体(Servlet,JSP,HTML/CSSなど) 
 
 -'sql/':データベースのテーブル構造を記述したファイル
 
 ##　工夫した点 
+
 -DAOを使ってデータベースのアクセスを整理 
 
 -実技教科は自由入力できるように設計 
