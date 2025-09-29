@@ -23,7 +23,7 @@
 
 -Apache Tomcat(ローカルサーバーとして使用)
 
-フォルダー構成
+##フォルダー構成
 
 
 -'app/':WEBアプリ本体(Servlet,JSP,HTML/CSSなど) 
